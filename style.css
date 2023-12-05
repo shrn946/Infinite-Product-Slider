@@ -40,7 +40,7 @@ input[type="reset"] {
   justify-content: center;
 }*/
 .product-loop{position:relative;}
-.product-title {
+.slider-container .product-title {
     font-weight: bold;
     padding: 12px;
     text-align: center;
